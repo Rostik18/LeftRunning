@@ -1,0 +1,7 @@
+C:\Users\Ростик\source\repos\LeftRunning\LeftRunning\bin\Debug\LeftRunning.exe.config
+C:\Users\Ростик\source\repos\LeftRunning\LeftRunning\bin\Debug\LeftRunning.exe
+C:\Users\Ростик\source\repos\LeftRunning\LeftRunning\bin\Debug\LeftRunning.pdb
+C:\Users\Ростик\source\repos\LeftRunning\LeftRunning\obj\Debug\LeftRunning.csprojAssemblyReference.cache
+C:\Users\Ростик\source\repos\LeftRunning\LeftRunning\obj\Debug\LeftRunning.csproj.CoreCompileInputs.cache
+C:\Users\Ростик\source\repos\LeftRunning\LeftRunning\obj\Debug\LeftRunning.exe
+C:\Users\Ростик\source\repos\LeftRunning\LeftRunning\obj\Debug\LeftRunning.pdb
